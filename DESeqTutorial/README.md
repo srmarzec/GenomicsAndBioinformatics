@@ -4,3 +4,4 @@ The upstream folder contains info and the script for getting read counts through
 
 The downstream folder contains info and the scripts for running DESeq on the data
 
+This is a test for merging branches
